@@ -13,3 +13,4 @@ Add a description of your character (~30-50 words) to the index.md file undernea
 * blabalbl2
 
 > Bla bla.
+<img src="https://avatars2.githubusercontent.com/in/15368?s=88&v=4"/>
